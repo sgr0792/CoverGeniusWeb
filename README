@@ -1,0 +1,5 @@
+Steps to Run the Project:
+1. Download/Clone the project using "https://github.com/sgr0792/CoverGeniusWeb.git"
+2. Go To terminal
+3. Go to the Folder where the project is cloned
+4. Run the below command "mvn test"
